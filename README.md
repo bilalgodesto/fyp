@@ -96,6 +96,3 @@ By following the above instructions carefully, you should face no issues accessi
 
 We will be soon starting to accept PR requests
 
-#### Licensing:
-
-The code in this project is licensed under [MIT license](LICENSE).
