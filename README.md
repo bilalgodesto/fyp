@@ -30,21 +30,29 @@
 ### DataSets
 
 [Traning Dataset](https://drive.google.com/uc?id=1eyUZPqxU1H-heqZHFhQ74hqp5rlBLWsA)
+**Objective:** This dataset is used to train all models.
 
 [Testing Dataset](https://drive.google.com/uc?id=1eX9AKnj2ALQt9dD3n_UcFGe3mO7uXuiS)
+**Objective:** This dataset is used to test all models.
 
 [Validation Dataset](https://drive.google.com/uc?id=17f9oKnzUBI_5EaL_cg40zdL6eneWxZNY)
+**Objective:** This dataset is used to validate all models.
 
 [Qualtative Dataset](https://drive.google.com/uc?id=1-39gatpZL3__lLx3CY90jJFqLxPQ3w8q)
-
+**Objective:** This dataset is used for qualititave study of our models.
 
 ### Compiled Models
 
 [ResNet50](https://fypphotos.s3.amazonaws.com/resnet_model_final_presentation.pth)
+**Objective:** This is a compiled resenet50 model can be read directly from this url and it can be used to identify the images and test the model on any type of data
+
 
 [BERT](https://fypphotos.s3.amazonaws.com/resnet_model_final_presentation.pth)
+**Objective:** This is a compiled BERT model can be read directly from this url and it can be used to identify the images and test the model on any type of data
+
 
 [ViLT](https://fypphotos.s3.amazonaws.com/pytorch_model.bin)
+**Objective:** This is a compiled ViLT model can be read directly from this url and it can be used to identify the images and test the model on any type of data
 
 
 
@@ -52,7 +60,7 @@
 
 ### ResNet50.ipynb
 
-**Objective:** This notebook entails the creation and training process for the ResNet50 model. [add more details here]
+**Objective:** This notebook entails the creation and training process for the ResNet50 model.
 
 
 **Instructions for Code Execution:**
