@@ -54,6 +54,8 @@
 [ViLT](https://fypphotos.s3.amazonaws.com/pytorch_model.bin)
 **Objective:** This is a compiled ViLT model can be read directly from this url and it can be used to identify the images and test the model on any type of data
 
+### Images
+[Selected images in dataset](https://drive.google.com/drive/folders/1Aaoq4fOZ_gkyKRmhLP2ceUKh_8IS6BfO?usp=sharing)
 
 
 ---
