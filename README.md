@@ -19,7 +19,9 @@
 **Objective:** This notebook covers the preprocessing of our dataset, which consists of approximately 210,000 landscape images. Each image is paired with textual comments and assorted metadata, including geographical coordinates and voting statistics. Data integration was vital, involving the harmonization of multiple files, such as `votes.tsv`, `scenicornot.csv`, and `gridimage text.csv`, based on shared attributes like `gridimage id`. We diligently addressed data integrity issues by excluding entries with missing Geograph URLs or comments. Textual data underwent comprehensive preprocessing, such as contraction expansion, HTML tag removal, and lemmatization. We also crafted critical features, like average and variance, from the voting data to quantitatively represent scenicness.
 
 [votes.tsv](https://drive.google.com/uc?id=1JesG06eSXlBCnAVx7liCHREIsFm7bvni)
+
 [scenicornot.csv](https://drive.google.com/uc?id=1kpNNeOQhONxDZV57bCHVANTpLookqHoB)
+
 [gridimage_text.csv](https://drive.google.com/uc?id=1BjI1NI3Td63sqlBpHp80I1NTe58OpEqx)
 
 **Instructions for Code Execution:** This file can be run directly without any special permissions.
